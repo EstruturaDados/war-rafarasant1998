@@ -128,6 +128,13 @@ Exibição do resultado da batalha, dados sorteados e mudanças no mapa.
 
 ## ▶️ Compilação e Execução 
 
+Para compilar o código, execute o comando abaixo no terminal:
+
+```
+gcc main.c -o programa
+```
+E para executá-lo:
+
 ```bash
 ./programa
 ```
